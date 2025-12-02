@@ -22,7 +22,7 @@ https://peps.python.org/pep-0008/
         UserCard.jsx
         LoginForm.jsx
 
-    3.2 Archivos Utilitarios usar nomenclatura `camelCase`
+    3.2 Archivos Utilitarios; usar nomenclatura `camelCase`
         Ejemplo:
         formatDate.js
         calculateRisk.js
@@ -43,8 +43,8 @@ https://peps.python.org/pep-0008/
 
 5.- En caso de requerir agregar carpetas al repositorio:
     5.1 para carpetas de trabajo técnico usar nomenclatura `snake_case`
-    5.2 para assets gráficos.
-    5.3 usar nombres descriptivos, cortos y sin ambigüedades.
+    5.2 para assets gráficos: usar nombres descriptivos, cortos y sin 
+        ambigüedades.
         Ejemplos:
         data/
         notebooks/
@@ -57,8 +57,7 @@ https://peps.python.org/pep-0008/
         docs/
         scripts/
 
-6.- En caso de requerir agregar mas archivos, preferentemente utilizar prefijos que 
-    expliquen su necesidad:
+6.- En caso de requerir agregar mas archivos, preferentemente utilizar prefijos que expliquen su necesidad:
     Ejemplos:
     6.1 Para Data Science:
         etl_*.py
