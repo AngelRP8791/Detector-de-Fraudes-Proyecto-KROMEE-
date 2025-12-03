@@ -1,8 +1,9 @@
 Convenciones nombres
 
-1.- Apegarse en la medida de lo posible a las reglas PEP-8:
+1.- Apegarse en la medida de lo posible a las reglas PEP-8 (Python) y ES6+ (JavaScript):
 
-https://peps.python.org/pep-0008/
+Documentación PEP-8: https://peps.python.org/pep-0008/
+Documentación ES6+: https://info340.github.io/es6.html
 
 
 2.- Paquetes en Python (carpetas con init.py)
